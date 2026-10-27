@@ -1,34 +1,29 @@
-# Hi, I'm Jaswanth 👋
+Hi, I'm Jaswanth 👋
 
-**AI/ML Engineer · Minor in AI, IIT Ropar · Chennai**
+Data Analyst · AI/ML · Minor in AI, IIT Ropar · Chennai
 
-Completed Minor in AI from IIT Ropar. Fully focused on building and deploying end-to-end ML, deep learning, and GenAI systems that solve real business problems — from data to production.
+I turn raw data into clean, analysis-ready datasets and clear business reports, and I build ML, deep learning and GenAI systems on top of that data. My work covers data cleaning, SQL analysis, Power BI dashboards, reporting automation, and end-to-end AI projects, backed by a Minor in AI from IIT Ropar. Most recently I interned as a Data Analyst at Intellea, building Databricks pipelines on Azure.
 
----
+🛠 Stack
 
-## 🛠 Stack
+Data & Analytics: SQL · Advanced Excel · Power BI · Python · Pandas · Looker Studio · MySQL · BigQuery · Databricks · Azure Data Lake · Git
 
-`Python` · `PyTorch` · `Scikit-learn` · `Hugging Face` · `LangChain` · `ChromaDB` · `FAISS` · `Ollama` · `Streamlit` · `Docker` · `MLflow` · `SQL`
+AI & ML: Scikit-learn · PyTorch · Hugging Face · LangChain · ChromaDB · FAISS · Ollama · Streamlit · Docker · MLflow
 
----
+📌 Projects
+Project	Description	Stack
+CompensIQ	Salary benchmarking across 62 countries and 7 job families — 50K+ records, predictive model (R²=0.89), explainable economic signal layer, automated reporting, live Streamlit app	Python, Pandas, Scikit-learn, Streamlit
+Stratum	Enterprise financial analytics over annual reports — hybrid BM25 + semantic retrieval, 4900+ chunks, page-level citations, local LLM	Python, LangChain, ChromaDB, Ollama
+PCB Inspection System	Quality analytics replacing manual QA — YOLOv11 PASS/FAIL classifier, 94%+ accuracy, sub-3s cycle time	Python, YOLOv11, Computer Vision
+NYC Yellow Taxi Analysis	Intellea internship — medallion pipeline (Landing, Bronze, Silver, Gold) with cleansed SQL tables for demand and trend analysis	Databricks, Azure Data Lake Gen2, SQL
+🎓 Education
 
-## 📌 Projects
+B.E. Mechatronics — KCG College of Technology (2022–2026)
 
-| Project | Description | Stack |
-|---|---|---|
-| [CompensIQ](https://github.com/Jaswanth-ak/compensiq) | ML salary prediction across 62 countries — R²=0.89, 50K+ records, explainable economic signal layer, live Streamlit app | Python, Scikit-learn, Streamlit |
-| [PCB Inspection System] | YOLOv11 PASS/FAIL classifier replacing manual QA — 94%+ accuracy, sub-3s cycle time, on-device inference | Python, YOLOv11, Computer Vision |
-| [Stratum](https://github.com/Jaswanth-ak/stratum) | Enterprise RAG system over financial reports — hybrid BM25 + semantic retrieval, 4900+ chunks, page-level citations, local LLM | Python, LangChain, ChromaDB, Ollama |
+Minor in AI — IIT Ropar (2024–2025) ML · Deep Learning · CNNs · NLP · Transformers · LLMs · RL
 
----
+📜 Certifications
 
- 🎓 Education
+SQL for Data Analysis (Udemy) · Python for Data Science (Udemy) · Excel Basics for Data Analysis (Coursera) · Introduction to Data Analysis (Coursera)
 
-**Minor in AI** — IIT Ropar (2024–2025)
-ML · Deep Learning · CNNs · NLP · Transformers · LLMs · RL
-
-**B.E. Mechatronics** — KCG College of Technology (2022–2026)
-
----
-
-📫 [jaswanthak46@gmail.com](mailto:jaswanthak46@gmail.com) · [LinkedIn](https://linkedin.com/in/jaswanth-b-192676371)
+📫 jaswanthak46@gmail.com · www.linkedin.com/in/jaswanth-ak
