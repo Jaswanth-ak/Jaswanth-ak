@@ -62,11 +62,7 @@ I turn raw data into decisions, and decisions into working systems: SQL and Powe
 
 Mastering Power BI (From Data to Dashboard) · SQL for Data Analysis (Udemy) · Python for Data Science (Udemy) · Excel Basics for Data Analysis (Coursera) · Introduction to Data Analysis (Coursera)
 
----
 
-<p align="center">
-  <a href="mailto:jaswanthak46@gmail.com?subject=Hi%20Jaswanth"><img src="https://img.shields.io/badge/Hiring%3F%20Email%20me-E50914?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
-</p>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jaswanthak46@gmail.com&su=Hi%20Jaswanth"><img src="https://img.shields.io/badge/Hiring%3F%20Email%20me-E50914?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
 <p align="center"><sub>jaswanthak46@gmail.com</sub></p>
