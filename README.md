@@ -13,9 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaswanth-ak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jaswanthak46@gmail.com?subject=Hi%20Jaswanth"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jaswanthak46@gmail.com&su=Hi%20Jaswanth"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 ---
 
 ## 🔴 About
@@ -70,8 +68,7 @@ Mastering Power BI (From Data to Dashboard) · SQL for Data Analysis (Udemy) · 
   <a href="mailto:jaswanthak46@gmail.com?subject=Hi%20Jaswanth"><img src="https://img.shields.io/badge/Hiring%3F%20Email%20me-E50914?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=FF6B6B&center=true&vCenter=true&width=700&lines=Open+to+Data+Analyst%2C+AI%2FML+Engineer+and+Business+Analyst+roles;Thank+you+for+visiting+my+profile" alt="Footer typing"/>
-</p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jaswanthak46@gmail.com&su=Hi%20Jaswanth"><img src="https://img.shields.io/badge/Hiring%3F%20Email%20me-E50914?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+<p align="center"><sub>jaswanthak46@gmail.com</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,55:E50914,100:5C0A0A&height=200&section=footer" width="100%" alt=""/>
